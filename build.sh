@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t nvidia-centos-driver-installer .
+docker build -t hwiorn/nvidia-centos-driver-installer .
